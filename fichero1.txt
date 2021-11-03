@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Fusió local 
 Laura
+=======
+Fusió local
+
+
+Judit Sánchez
+>>>>>>> a1a7a0c4fb02f87323d50f2ebcb81970e04b6378
